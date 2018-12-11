@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\application",
+    "\\application\\cache",
+    "\\application\\config",
+    "\\assets",
+    "\\system"
+  ],
+  "SelectedNode": "\\application\\config\\autoload.php",
+  "PreviewInSolutionExplorer": false
+}
